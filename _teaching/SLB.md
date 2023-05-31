@@ -18,5 +18,5 @@ Some of the clients I worked for:
 1. Oil and Natural Gas Corporation (**ONGC**) India Limited
 2. Reliance India Limited (**RIL**)
 3. Husky Oil China Limited (**HOCL**)
-4. 
+4. Japan Petroleum Exploration Co. Ltd. (**JAPEX**)
 
