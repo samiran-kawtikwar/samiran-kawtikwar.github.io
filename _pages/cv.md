@@ -9,56 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- B.Tech. in Production and Industrial Engineering, IIT Delhi, 2018
+- M.S. in Operations Research, UIUC, 2022
+- Ph.D in Operations Research, UIUC, Ongoing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Teaching/Research experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Teaching Assistant**, UIUC (Fall 2020 - Ongoing)
 
-Publications
-======
+  - Undergraduate Courses: \
+    Facilities Layout and Planning ([IE360](https://courses.illinois.edu/schedule/2023/fall/IE/360)) \
+    Analysis of Data ([IE300](https://courses.illinois.edu/schedule/2023/spring/IE/300)) \
+    Production Planning and Control ([IE361](https://courses.illinois.edu/schedule/2023/spring/IE/361)) \
+    Engineering Graphics and Design ([SE101](https://courses.illinois.edu/schedule/2023/spring/SE/101))
+  - Graduate Courses: \
+    Big Graphs and Social Networks ([IE533](https://courses.illinois.edu/schedule/2023/spring/IE/533))
+  - Featured in list of teachers ranked as excellent by students ([Fall 2022](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf))
+
+- **Research Assistant**, UIUC (Summer 2021 - Fall 2021)
+  - IBM-ILLINOIS Center for Cognitive Computing Systems Research
+
+# Skills
+
+- Areas
+  - High-performance computing
+  - Optimization
+- Programming
+  - C++, CUDA, Python
+- Tools
+  - Optimization packages - Gurobi, AMPL, NetworkX, CVX
+  - Data Analytics - SQL, scikit-learn,
+  - GPU Programming - CUB, METIS, Nsight Compute
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+
+# Professional Experience
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Mentor, UIUC
+* Empowerment Team Leader, Schlumberger
+* Undergraduate Secretary, Academic Interaction Council IIT Delhi
+* Publicity Coordinator, Literati IIT Delhi
