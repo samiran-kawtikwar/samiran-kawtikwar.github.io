@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently pursuing PhD in Operations Research at the University of Illinois at Urbana Champaign (UIUC). I completed my undergraduate degree in Production and Industrial Engineering from the Indian Institute of Technology (IIT) Delhi in 2018. I have worked at Schlumberger as a field operations engineer for 2 years. If you would like to learn more about me, please see my [resume]().
+
+My research interests lie at the intersection of high-performance computing and large-scale optimization. I mainly focus on utilizing Graphics Processing Units (GPUs) to accelerate discrete optimization and graph algorithms to develop scaleable solutions for large instances. So far, I have worked on the following problems:
+
+1. GPU Accelerated Subgraph Enumeration \
+   BEEP: **B**alanced **E**fficient **E**numeration in **P**arallel
+2. GPU Accelerated solver for the Linear Assignment Problem \
+   HyLAC: **H**ybrid **L**inear **A**ssignment solver in **C**UDA
+3. GPU Accelerated Multi-Target Tracking \
+   Multi-Target Tracking with GPU-Accelerated Data Association Engine
 
 # A data-driven personal website
 
