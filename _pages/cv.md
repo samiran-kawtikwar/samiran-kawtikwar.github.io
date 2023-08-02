@@ -51,7 +51,9 @@ redirect_from:
 
 # Professional Experience
 
-  <ul>{% for post in site.teaching reversed %}
+======
+
+  <ul>{% for post in site.experience %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
