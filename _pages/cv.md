@@ -14,12 +14,11 @@ redirect_from:
 - Ph.D in Operations Research, UIUC, Ongoing
 - M.S. in Operations Research, UIUC, 2022
 - B.Tech. in Production and Industrial Engineering, IIT Delhi, 2018
+  Teaching/Research experience
+  ======
 
-# Teaching/Research experience
-
-- **Teaching Assistant**, UIUC (Fall 2020 - Ongoing)
-
-  - Featured in list of teachers ranked **Excellent** by students ([Fall 2022](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf))
+* **Teaching Assistant**, UIUC (Fall 2020 - Ongoing)
+  - Featured in the list of teachers ranked **Excellent** by students ([Fall 22](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf), [Spring 23](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2023-spring.pdf))
   - Graduate Courses: \
     Big Graphs and Social Networks ([IE533](https://courses.illinois.edu/schedule/2023/spring/IE/533))
   - Undergraduate Courses: \
