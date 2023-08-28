@@ -80,39 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name: Samiran kawtikwar
-  avatar: "Samiran2.jpeg"
-  bio: "PhD student, University of Illinois at Urbana-Champaign"
-  location:
-  employer:
-  googlescholar: "https://scholar.google.com/citations?user=xnaLkOkAAAAJ&hl=en"
-  email: "samiran2@illinois.edu"
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
-  uri:
-  bitbucket:
-  codepen:
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
-  github: "https://github.com/samiran-kawtikwar"
-  google_plus:
-  keybase:
-  instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm:
-  linkedin: "https://www.linkedin.com/in/samiran-kawtikwar/"
-  orcid: "https://orcid.org/0000-0003-2243-5825"
-  pinterest:
-  soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
-  steam:
-  tumblr:
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
+  name             : Samiran kawtikwar
+  avatar           : "Samiran2.jpeg"
+  bio              : "samiran2@illinois.edu" # "PhD student, University of Illinois at Urbana-Champaign"
+  location         : 
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=xnaLkOkAAAAJ&hl=en"
+  email            :  # "samiran2@illinois.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "samiran-kawtikwar"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "samiran-kawtikwar/"
+  orcid            : "https://orcid.org/0000-0003-2243-5825"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
