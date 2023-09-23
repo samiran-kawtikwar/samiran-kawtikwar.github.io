@@ -74,46 +74,45 @@ social:
 
 # Analytics
 analytics:
-  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id:
 
 # Site Author
 author:
-  name             : Samiran kawtikwar
-  avatar           : "Samiran2.jpeg"
-  bio              : "samiran2@illinois.edu" # "PhD student, University of Illinois at Urbana-Champaign"
-  location         : 
-  employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=xnaLkOkAAAAJ&hl=en"
-  email            :  # "samiran2@illinois.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "samiran-kawtikwar"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "samiran-kawtikwar/"
-  orcid            : "https://orcid.org/0000-0003-2243-5825"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: Samiran Kawtikwar
+  avatar: "Samiran2.jpeg"
+  bio: "samiran2@illinois.edu" # "PhD student, University of Illinois at Urbana-Champaign"
+  location:
+  employer:
+  googlescholar: "https://scholar.google.com/citations?user=xnaLkOkAAAAJ&hl=en"
+  email: # "samiran2@illinois.edu"
+  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "samiran-kawtikwar"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: "samiran-kawtikwar/"
+  orcid: "https://orcid.org/0000-0003-2243-5825"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 # Reading Files
 include:
@@ -269,14 +268,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
-
-# Mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
   - jemoji
 
 # Archives
