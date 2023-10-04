@@ -14,5 +14,5 @@ BEEP is a state-of-the-art subgraph enumerator that combines parallel GPU proces
 ## ACM Reference Format:
 Samiran Kawtikwar, Mohammad Almasri, Wen-Mei Hwu, Rakesh Nagi, and Jinjun Xiong. 2023. BEEP: <u>B</u>alanced <u>E</u>fficient subgraph <u>E</u>numeration in <u>P</u>arallel. In 52nd International Conference on Parallel Processing (ICPP 2023), August 07--10, 2023, Salt Lake City, UT, USA. ACM, New York, NY, USA 11 Pages.
 
-<p><a href="http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/ICPP2023/80/f212e5f8-15af-11ee-b37c-16bb50361d1f/OUT/icpp2023-80.html">Preview full paper here</a></p>
+<p><a href="https://dl.acm.org/doi/10.1145/3605573.3605653">Preview full paper here</a></p>
 
