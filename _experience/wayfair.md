@@ -3,6 +3,7 @@ title: "Wayfair"
 collection: experience
 type: "Operations Research Scientist Intern"
 date: 2023-06-05
+edate: " "
 location: "Boston, USA"
 excerpt: "Location: Boston, USA."
 ---
