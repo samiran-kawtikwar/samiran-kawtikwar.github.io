@@ -2,7 +2,7 @@
 title: "BEEP: Balanced Efficient subgraph Enumeration in Parallel"
 collection: publications
 date: 2023-09-26
-excerpt: ''
+excerpt: ""
 permalink: /publication/BEEP
 venue: 52<sup>nd</sup> International Conference on Parallel Processing (ICPP)
 ---
@@ -12,7 +12,7 @@ BEEP is a state-of-the-art subgraph enumerator that combines parallel GPU proces
 </div>
 
 ## ACM Reference Format:
-Samiran Kawtikwar, Mohammad Almasri, Wen-Mei Hwu, Rakesh Nagi, and Jinjun Xiong. 2023. BEEP: <u>B</u>alanced <u>E</u>fficient subgraph <u>E</u>numeration in <u>P</u>arallel. In 52nd International Conference on Parallel Processing (ICPP 2023), August 07--10, 2023, Salt Lake City, UT, USA. ACM, New York, NY, USA 11 Pages.
+
+Samiran Kawtikwar, Mohammad Almasri, Wen-Mei Hwu, Rakesh Nagi, and Jinjun Xiong. 2023. BEEP: Balanced Efficient subgraph Enumeration in Parallel. In Proceedings of the 52nd International Conference on Parallel Processing (ICPP '23). Association for Computing Machinery, New York, NY, USA, 142–152. https://doi.org/10.1145/3605573.3605653.
 
 <p><a href="https://dl.acm.org/doi/10.1145/3605573.3605653">Preview full paper here</a></p>
-
