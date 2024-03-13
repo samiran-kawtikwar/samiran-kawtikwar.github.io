@@ -16,3 +16,4 @@ BEEP is a state-of-the-art subgraph enumerator that combines parallel GPU proces
 Samiran Kawtikwar, Mohammad Almasri, Wen-Mei Hwu, Rakesh Nagi, and Jinjun Xiong. 2023. BEEP: Balanced Efficient subgraph Enumeration in Parallel. In Proceedings of the 52nd International Conference on Parallel Processing (ICPP '23). Association for Computing Machinery, New York, NY, USA, 142–152. https://doi.org/10.1145/3605573.3605653.
 
 <p><a href="https://dl.acm.org/doi/10.1145/3605573.3605653">Preview full paper here</a></p>
+Source code: [GitHub] <a href=https://github.com/researchgroup-zx93920/BEEP>(https://github.com/researchgroup-zx93920/BEEP)</a>
