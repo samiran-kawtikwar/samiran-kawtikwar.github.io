@@ -9,7 +9,15 @@ excerpt: "Location: Houston, USA."
 ---
 
 <div style="text-align: justify;">
-<p> ExxonMobil is a global leader in energy and petrochemical products, known for its complex supply chains and cutting-edge technology.</p> 
-<p> As a Mathematical Optimization and Data Science (MODS) intern, I contributed to ExxonMobil's efforts to optimize its extensive operations. My role involved developing mathematical models to solve large-scale optimization problems within the company's supply chain to enhance decision-making processes. </p> 
-<p> I was responsible for improving long-term portfolio valuation models for ExxonMobil's LNG business. Key contributions included reformulating and preprocessing the Long Term Portfolio Model, enhancing performance without compromising quality. I also converted a 3-stage Linear Programming (LP) solution into a 1-stage Mixed Integer Linear Programming (MILP) model, which improved both performance and interpretability. Additionally, I built a CPU parallelization framework to simultaneously evaluate multiple pricing forecasts, further enhancing the efficiency of the model. </p> 
+<p>
+ExxonMobil is a global leader in energy and petrochemical products, known for its complex supply chains and cutting-edge technology.</p>
+<p>
+As a Mathematical Optimization and Data Science (MODS) intern, I contributed to ExxonMobil's efforts to optimize its extensive operations.
+My role involved developing mathematical models to solve large-scale optimization problems within the company's supply chain to enhance decision-making processes. </p> 
+<p> 
+I was responsible for improving long-term portfolio valuation models for ExxonMobil's LNG business. 
+My key contributions included reformulating and preprocessing the Long Term Portfolio Model, and enhancing performance without compromising quality. 
+I converted an existing 3-stage Linear Programming (LP) solution into a 1-stage Mixed Integer Linear Programming (MILP) model, which improved its performance and interpretability. 
+Additionally, I built a CPU parallelization framework to simultaneously evaluate multiple pricing forecasts, further enhancing the performance of the solution. 
+</p> 
 </div>
