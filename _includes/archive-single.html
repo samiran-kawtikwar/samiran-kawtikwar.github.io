@@ -36,12 +36,12 @@
 
     {% if post.collection == 'experience' %}
     {% if post.edate == " " %}
-    <p> {{ post.type }} ({{ post.date | default: "1900-01-01" | date: "%Y" }})</p>
+    <p> {{ post.type }} ({{ post.date | default: "1900-01-01" | date: "%b %y" }})</p>
     {% elsif post.edate != nil %}
-    <p> {{ post.type }} ({{ post.date | default: "1900-01-01" | date: "%Y" }} - {{ post.edate |
-      default: "" | date: "%Y" }})</p>
+    <p> {{ post.type }} ({{ post.date | default: "1900-01-01" | date: "%b %y" }} - {{ post.edate |
+      default: "" | date: "%b %y" }})</p>
     {% elsif post.edate == nil %}
-    <p> {{ post.type }} ({{ post.date | default: "1900-01-01" | date: "%Y" }} - Ongoing) </p>
+    <p> {{ post.type }} ({{ post.date | default: "1900-01-01" | date: "%b %y" }} - Ongoing) </p>
     {% endif %}
     {% elsif post.collection == 'publications' %}
     <p> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>

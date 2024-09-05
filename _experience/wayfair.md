@@ -3,14 +3,14 @@ title: "Wayfair"
 collection: experience
 type: "Operations Research Scientist Intern"
 date: 2023-06-05
-edate: " "
+edate: 2023-08-11
 location: "Boston, USA"
 excerpt: "Location: Boston, USA."
 ---
 
 <div style="text-align: justify;">
 <p>
-Wayfair is a comprehensive online marketplace for home goods and furniture. Renowned for its user-friendly platform and competitive pricing, Wayfair strategically manages its supply chain, ensuring efficient logistics and a diverse array of quality products.
+Wayfair is a an online marketplace for home goods and furniture. Wayfair strategically manages its supply chain to ensure efficient logistics and a diverse array of quality products.
 </p>
 <p>
 Wayfair’s Operations Research team is responsible for developing and implementing optimization models to improve the efficiency of its supply chain. As a part of the team, I worked on optimizing Wayfair's warehouse operations.
