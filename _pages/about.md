@@ -10,7 +10,8 @@ redirect_from:
 
 I am currently pursuing PhD in Operations Research at the University of Illinois at Urbana Champaign (UIUC). I completed my undergraduate degree in Production and Industrial Engineering from the Indian Institute of Technology (IIT) Delhi in 2018. I have worked at Schlumberger as a field operations engineer for 2 years. If you would like to learn more about me, please see my [resume](files/Samiran-Kawtikwar-Resume.pdf).
 
-My research interests lie at the intersection of high-performance computing and large-scale optimization. I mainly focus on utilizing Graphics Processing Units (GPUs) to accelerate discrete optimization and graph algorithms to develop scalable solutions for large instances. So far, I have worked on the following problems:
+My research interests lie at the intersection of high-performance computing and large-scale optimization. I mainly focus on utilizing Graphics Processing Units (GPUs) to accelerate discrete optimization and graph algorithms to develop scalable solutions for large instances. I have developed a unique combination of CUDA skills with focus on parallel optimization and graph search techniques.
+So far, I have worked on the following problems:
 
 1. GPU Accelerated Subgraph Enumeration \
    BEEP: **B**alanced **E**fficient **E**numeration in **P**arallel
@@ -18,8 +19,8 @@ My research interests lie at the intersection of high-performance computing and 
    HyLAC: **H**ybrid **L**inear **A**ssignment solver in **C**UDA
 3. GPU Accelerated Multi-Target Tracking \
    Multi-Target Tracking with GPU-Accelerated Data Association Engine
-
-# A data-driven personal website
+4. GPU Accelerated Branch-and-Bound through Best First Search (In progress)\
+   A single kernel BnB framework in CUDA for solving combinatorial optimization problems.
 
 # Note
 
