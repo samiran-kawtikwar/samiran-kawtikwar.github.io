@@ -8,5 +8,4 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem "webrick"
 gem 'jekyll-last-modified-at'
