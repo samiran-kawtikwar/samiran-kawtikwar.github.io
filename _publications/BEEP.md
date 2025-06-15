@@ -1,6 +1,7 @@
 ---
 title: "BEEP: Balanced Efficient subgraph Enumeration in Parallel"
 collection: publications
+category: conferences
 date: 2023-09-26
 excerpt: ""
 permalink: /publication/BEEP

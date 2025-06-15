@@ -21,10 +21,10 @@ repository: "samiran-kawtikwar/samiran-kawtikwar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "Samiran2.jpeg"
   name: "Samiran Kawtikwar"
-  pronouns: "he/him"
-  bio: "PhD candidate"
+  pronouns: # "he/him"
+  bio: # "PhD candidate"
   location: "Champaign, IL"
   employer: "ISE, UIUC"
   uri: # URL

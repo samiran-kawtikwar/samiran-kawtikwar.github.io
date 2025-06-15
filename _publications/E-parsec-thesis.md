@@ -1,6 +1,7 @@
 ---
 title: "Enhancements in high performance subgraph enumeration on graphics processors"
 collection: publications
+category: books
 permalink: /publication/E-parsec-thesis
 excerpt: ""
 date: 2022-07-18

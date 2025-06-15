@@ -1,6 +1,7 @@
 ---
 title: "HyLAC: Hybrid Linear Assignment solver in CUDA"
 collection: publications
+category: manuscripts
 permalink: /publication/HyLAC
 excerpt: ""
 date: 2024-05-01

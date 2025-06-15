@@ -1,6 +1,7 @@
 ---
 title: "Multi-Target Tracking with GPU-Accelerated Data Association Engine"
 collection: publications
+category: conferences
 permalink: https://easychair.org/publications/preprint/R24L
 excerpt: ""
 date: 2023-05-26
