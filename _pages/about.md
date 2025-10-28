@@ -35,7 +35,7 @@ A single kernel BnB framework in CUDA for solving combinatorial optimization pro
 
 ### 5. GPU Accelerated Crossovers Inspired by the Spiral Dynamics of PDHG (Ongoing)
 
-A crossover algorithm inspired by the spiral dynamics of primal-dual hybrid gradient (PDHG) method for solving convex optimization problems. [slides](files/crossover-INFORMS25.pptx)
+A crossover algorithm inspired by the spiral dynamics of primal-dual hybrid gradient (PDHG) method for finding basic feasible solutions of LP from an interior solution. [slides](files/crossover-INFORMS25.pptx)
 
 # Note
 
