@@ -11,8 +11,8 @@ redirect_from:
 
 # Education
 
-- Ph.D in Operations Research, UIUC, Ongoing
-- M.S. in Operations Research, UIUC, 2022
+- Ph.D. in Operations Research, UIUC, 2020–August 2025
+- M.S. in Industrial Engineering, UIUC, 2020–2022
 - B.Tech. in Production and Industrial Engineering, IIT Delhi, 2018
 
 # Publications

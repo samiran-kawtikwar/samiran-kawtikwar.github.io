@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing PhD in Operations Research at the University of Illinois at Urbana Champaign (UIUC). I completed my undergraduate degree in Production and Industrial Engineering from the Indian Institute of Technology (IIT) Delhi in 2018. I have worked at Schlumberger as a field operations engineer for 2 years. If you would like to learn more about me, please see my [resume](files/Samiran-Kawtikwar-Resume.pdf).
+I completed my Ph.D. in Operations Research at the University of Illinois Urbana-Champaign (UIUC) in August 2025 and am a Senior Operations Research Scientist at Wayfair, where I work on optimization for transportation and delivery operations. I previously worked as a field operations engineer at Schlumberger for two years. I earned my undergraduate degree in Production and Industrial Engineering from the Indian Institute of Technology (IIT) Delhi in 2018. For more details, please see my [resume](files/Samiran-Kawtikwar-Resume.pdf).
 
 My research interests lie at the intersection of high-performance computing and large-scale optimization. I mainly focus on utilizing Graphics Processing Units (GPUs) to accelerate discrete optimization and graph algorithms to develop scalable solutions for large instances. I have developed a unique combination of CUDA skills with focus on parallel optimization and graph search techniques.
 So far, I have worked on the following problems:
