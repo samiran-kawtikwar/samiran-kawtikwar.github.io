@@ -54,6 +54,14 @@
   }
 }
 
+.masthead__updated {
+  margin-bottom: 0.25rem;
+  color: var(--global-text-color);
+  font-size: 0.65rem;
+  line-height: 1.4;
+  text-align: right;
+}
+
 .masthead__menu-item {
   background-color: var(--global-bg-color);
   display: block;
