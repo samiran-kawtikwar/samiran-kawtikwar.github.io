@@ -2,7 +2,8 @@
 title: "Multi-Target Tracking with GPU-Accelerated Data Association Engine"
 collection: publications
 category: conferences
-permalink: https://easychair.org/publications/preprint/R24L
+permalink: /publication/MTT-Fusion/
+link: https://easychair.org/publications/preprint/R24L
 excerpt: ""
 date: 2023-05-26
 venue: "26<sup>th</sup> International Conference on Information Fusion"
@@ -16,4 +17,4 @@ Multi-Target Tracking (MTT) is a complex problem in data association and sensor 
 
 Samiran Kawtikwar and Rakesh Nagi, "Multi-Target Tracking with GPU-Accelerated Data Association Engine," 2023 26th International Conference on Information Fusion (FUSION), Charleston, SC, USA, 2023, pp. 1-8, doi: 10.23919/FUSION52260.2023.10224136.
 
-[Preview full paper here](https://ieeexplore.ieee.org/document/10224136)
+[Read the preprint on EasyChair](https://easychair.org/publications/preprint/R24L) | [View the published paper on IEEE Xplore](https://ieeexplore.ieee.org/document/10224136)

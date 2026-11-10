@@ -1,7 +1,7 @@
 ---
 title: "ExxonMobil"
 collection: experience
-type: "Mathamatical Optimization and Data Science Intern"
+type: "Mathematical Optimization and Data Science Intern"
 date: 2024-05-20
 edate: 2024-08-09
 edate: " "

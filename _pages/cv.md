@@ -34,7 +34,7 @@ redirect_from:
 
 <h1 style="margin-top: 2em;">Teaching/Research experience</h1>
 
-- **Teaching Assistant**, UIUC (Fall 2020 - Ongoing)
+- **Teaching Assistant**, UIUC (Fall 2020 - Spring 2025)
 
   - Featured in the list of teachers ranked **Excellent** by students ([Fall 22](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2022-fall.pdf), [Spring 23](https://citl.illinois.edu/docs/default-source/teachers-ranked-as-excellent/tre-2023-spring.pdf))
   - Graduate Courses: \
