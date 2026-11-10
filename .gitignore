@@ -18,3 +18,6 @@ package-lock.json
 vendor/
 .bundle/
 .jekyll-metadata
+
+# The deployment workflow rebuilds this generated file.
+assets/js/main.min.js

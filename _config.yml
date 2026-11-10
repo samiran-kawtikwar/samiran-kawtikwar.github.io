@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
+site_theme: "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title: "My Portfolio"
 title_separator: " "
 name: &name "Samiran Kawtikwar"
@@ -40,6 +41,9 @@ author:
   pubmed: # URL
   researchgate: "https://www.researchgate.net/profile/Samiran_Kawtikwar2"
   scopus: # URL
+  inspire-hep: # URL
+  ssrn: # URL
+  zotero: # URL
 
   # Repositories and software development
   bitbucket: # Username - Update with your username on the site
@@ -50,6 +54,7 @@ author:
   stackoverflow: "15164891/samiran-k"
 
   # Social media
+  artstation: # Username
   bluesky: # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
@@ -134,7 +139,7 @@ facebook:
   username:
   app_id:
   publisher:
-og_image: # Social media default site image
+og_image: og-image.png # Social media default site image (lives in /images/)
 og_description: # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -341,5 +346,6 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: ["<!-- ", " -->"]
   ignore:
     envs: development

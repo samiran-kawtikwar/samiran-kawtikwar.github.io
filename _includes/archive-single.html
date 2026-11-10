@@ -12,12 +12,11 @@
 {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: " list" }}__item">
+<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
     <div class="archive__item-teaser">
-      <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: " /images/" | prepend:
-        base_path }}" {% endif %} alt="">
+      <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: "/images/" | prepend: base_path }}" {% endif %} alt="">
     </div>
     {% endif %}
 
@@ -67,32 +66,12 @@
     {% endif %}
 
 
-    {% comment %}
-      Citation / Download links block
-    {% endcomment %}
-    {% assign links = "" %}
-
-    {% if post.paperurl %}
-      {% assign links = links | append: '<a href="' | append: post.paperurl | append: '">Download Paper</a>' %}
-    {% endif %}
-    {% if post.slidesurl %}
-      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-      {% assign links = links | append: '<a href="' | append: post.slidesurl | append: '">Download Slides</a>' %}
-    {% endif %}
-    {% if post.bibtexurl %}
-      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-      {% assign links = links | append: '<a href="' | append: post.bibtexurl | append: '">Download Bibtex</a>' %}
-    {% endif %}
-
-    {% if post.citation %}
-      <p>
-        Recommended citation: {{ post.citation }}
-        {% if links != "" %}<br />{{ links }}{% endif %}
-      </p>
-
-    {% elsif links != "" %}
-      <p>{{ links }}</p>
-    {% endif %}
+    {% include /components/citations.html
+      citation=post.citation
+      paperurl=post.paperurl
+      slidesurl=post.slidesurl
+      bibtexurl=post.bibtexurl
+    %}
 
   </article>
 </div>

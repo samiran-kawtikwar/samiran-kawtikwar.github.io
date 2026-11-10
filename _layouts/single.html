@@ -67,30 +67,12 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% comment %}
-          Citation / Download links for pages
-        {% endcomment %}
-        {% assign links = "" %}
-        {% if page.paperurl %}
-          {% assign links = links | append: '<a href="' | append: page.paperurl | append: '">Download Paper</a>' %}
-        {% endif %}
-        {% if page.slidesurl %}
-          {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-          {% assign links = links | append: '<a href="' | append: page.slidesurl | append: '">Download Slides</a>' %}
-        {% endif %}
-        {% if page.bibtexurl %}
-          {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-          {% assign links = links | append: '<a href="' | append: page.bibtexurl | append: '">Download Bibtex</a>' %}
-        {% endif %}
-
-        {% if page.citation %}
-          <p style="font-size: smaller">
-            Recommended citation: {{ page.citation }}
-            {% if links != "" %}<br />{{ links }}{% endif %}
-          </p>
-        {% elsif links != "" %}
-          <p style="font-size: smaller">{{ links }}</p>
-        {% endif %}
+        {% include /components/citations.html
+          citation=page.citation
+          paperurl=page.paperurl
+          slidesurl=page.slidesurl
+          bibtexurl=page.bibtexurl
+        %}
 
         {% comment %}
           Your custom “Direct Link” button
@@ -104,8 +86,6 @@ layout: default
         {% endif %}
       </section>
 
-      {% if page.header.overlay_color or page.header.overlay_image %}
-
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
         <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -116,7 +96,6 @@ layout: default
       {% if page.share %}{% include social-share.html %}{% endif %}
 
       {% include post_pagination.html %}
-      {% endif %}
     </div>
 
     {% if site.comments.provider and page.comments %}
